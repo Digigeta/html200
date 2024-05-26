@@ -2,7 +2,7 @@
 let a = 10;
 let b = 5;
 let c = 20;
-let d = 2;
+let d = 2; 
 
 // Addition
 let additionResult = a + b;
